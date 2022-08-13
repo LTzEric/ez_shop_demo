@@ -148,7 +148,7 @@ class HotNewsScreen_2 extends StatelessWidget {
     );
   }
   }
-//dsdsdsds
+
   _showDialog(BuildContext context) async {
     var dlg = AlertDialog(
       title: Text('Are you want to watch the evaluation video now?'),
