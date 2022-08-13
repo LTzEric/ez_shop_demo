@@ -29,12 +29,12 @@ class HomeBanner extends StatelessWidget {
             children: [
               AppText(
                 text: "RTX 3090 24G OC ( White )",
-                fontSize: 15,
+                fontSize: 12,
                 fontWeight: FontWeight.bold,
               ),
               AppText(
                 text: "ROG STRIX GeForce",
-                fontSize: 15,
+                fontSize: 12,
                 fontWeight: FontWeight.bold,
               ),
               SizedBox(
@@ -42,7 +42,7 @@ class HomeBanner extends StatelessWidget {
               ),
               AppText(
                 text: "Get Up To 40%  OFF",
-                fontSize: 16,
+                fontSize: 15,
                 fontWeight: FontWeight.w600,
                 color: AppColors.primaryColor,
               ),
